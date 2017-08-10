@@ -1,0 +1,926 @@
+[
+	{
+		"Name": "Vale Sports Arena",
+		"Twitter": "ValeSportsArena",
+		"PostCode": "CF11 8TW",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Indoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 0,
+		"MedSize": 1,
+		"SmallSize": 0,
+		"FullPrice": "-",
+		"MedPrice": 70,
+		"SmallPrice": "-",
+		"Description": "<p>9v9 Pitch. Available to book half for 5v5 for &pound;35.</p> <p>Gym facilities also available at &pound;10 per month.</p> <p>Regular special guest speaker events (Glenn Hoddle and Pele to name a few!), contact the venue for more details.</p>",
+		"Website": "http://www.valesportsarena.cymru",
+		"Email": "info@valesportsarena.cymru",
+		"Phones": [
+			"02920 789060",
+			"07955 270870"
+		],
+		"Image": "img/vsa.jpg",
+		"Lat": 51.4531,
+		"Lng": -3.1955,
+		"Verified": true
+	},
+	{
+		"Name": "Llanrumney Playing Fields",
+		"Twitter": "CardiffUniSport",
+		"PostCode": "CF3 4JN",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 123,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.cardiff.ac.uk/sport/facilities/sports-fields",
+		"Email": "sport@cardiff.ac.uk",
+		"Phones": [
+			"02920 777377"
+		],
+		"Image": "img/cupf.jpg",
+		"Lat": 51.5153,
+		"Lng": -3.1357
+	},
+	{
+		"Name": "Gol Center Cardiff",
+		"Twitter": "GolCardiff",
+		"PostCode": "CF11 8BR",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Unsure",
+		"FullSize": 0,
+		"MedSize": 1,
+		"SmallSize": 10,
+		"FullPrice": "-",
+		"MedPrice": 70,
+		"SmallPrice": 50,
+		"Description": "Off-Peak prices are slightly cheaper. Peak hours are Mon-Thu 6pm onwards. Off-Peak is any other hours. Off-Peak Prices are &pound;60 for medium pitch, &pound;39 for small",
+		"Website": "http://www.golcentres.co.uk/locations/cardiff",
+		"Email": "cardiff@golcentres.co.uk",
+		"Phones": [
+			"02920 375760"
+		],
+		"Image": "img/gc.jpg",
+		"Lat": 51.4756,
+		"Lng": -3.2139
+	},
+	{
+		"Name": "Powerleague Cardiff",
+		"Twitter": "powerleagueUK",
+		"PostCode": "CF14 1RF",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Unsure",
+		"FullSize": 0,
+		"MedSize": 0,
+		"SmallSize": 10,
+		"FullPrice": "-",
+		"MedPrice": "-",
+		"SmallPrice": 40,
+		"Description": "",
+		"Website": "http://www.powerleague.co.uk/5-a-side/wales/cardiff",
+		"Email": "cardiff@powerleague.co.uk",
+		"Phones": [
+			"02920 629970"
+		],
+		"Image": "img/plc.jpg",
+		"Lat": 51.5159,
+		"Lng": -3.2157
+	},
+	{
+		"Name": "Wales Institute of Sport",
+		"Twitter": "",
+		"PostCode": "CF11 9SW",
+		"Surfaces": [
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 70,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://sport.wales/about-us/sport-wales-national-centre/about-us.aspx",
+		"Email": "nationalcentre@sport.wales",
+		"Phones": [
+			"0300 3003123"
+		],
+		"Image": "img/wis.jpg",
+		"Lat": 51.4855,
+		"Lng": -3.1902
+	},
+	{
+		"Name": "Cardiff Met Cyncoed Campus",
+		"Twitter": "CMetSUSport",
+		"PostCode": "CF23 6XD",
+		"Surfaces": [
+			"Astro",
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 2,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 90,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.cardiffmet.ac.uk/about/sport/Pages/Outdoor-Pitches.aspx",
+		"Email": "dcadenne@cardiffmet.ac.uk",
+		"Phones": [
+			"029 2041 6777"
+		],
+		"Image": "img/cmet.jpg",
+		"Lat": 51.5105,
+		"Lng": -3.1618
+	},
+	{
+		"Name": "Cardiff City House of Sport",
+		"Twitter": "HouseofSportCDF",
+		"PostCode": "CF11 8AZ",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor",
+			"Indoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 2,
+		"MedSize": 1,
+		"SmallSize": 3,
+		"FullPrice": "90-110",
+		"MedPrice": "90-108",
+		"SmallPrice": 48,
+		"Description": "<p>Price ranges are dependent on times</p><p>Half of full size pitch cost &pound;60, Full match rate is &pound;135.</p><p>Changing rooms cost an extra &pound;25</p>",
+		"Website": "http://www.cardiffcityhouseofsport.co.uk/facilities/cardiff-international-sports-campus/",
+		"Email": "info@cardiffcityhouseofsport.co.uk",
+		"Phones": [
+			"029 2064 3742"
+		],
+		"Image": "img/cchos.jpg",
+		"ExtraImages": [
+			"img/cchos/1.jpg",
+			"img/cchos/2.jpg",
+			"img/cchos/3.jpg",
+			"img/cchos/4.jpg",
+			"img/cchos/5.jpg",
+			"img/cchos/6.jpg",
+			"img/cchos/7.jpg",
+			"img/cchos/8.jpg"
+		],
+		"Lat": 51.4729,
+		"Lng": -3.2041,
+		"Verified": true
+	},
+	{
+		"Name": "Cardiff Arms Park",
+		"Twitter": "ArmsParkCardiff",
+		"PostCode": "cf101ja",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 150,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.cardiffblues.com/armspark/pitch_hire.php",
+		"Email": "pitchhire@cardiffblues.com",
+		"Phones": [
+			"029 20 302000"
+		],
+		"Image": "img/cap.jpg",
+		"Lat": 51.4782,
+		"Lng": -3.1826
+	},
+	{
+		"Name": "Cardiff High School",
+		"Twitter": "officialCHS",
+		"PostCode": "CF23 6WG",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "55*",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "*This price is for the floodlit area of the pitch only which covers just over half of a normal full sized pitch.",
+		"Website": "http://www.cardiffhigh.cardiff.sch.uk/form/?pid=195&form=19",
+		"Email": "HRichards@cardiff.gov.uk",
+		"Phones": [
+			"029 20 680 850"
+		],
+		"Image": "img/chs.jpg",
+		"Lat": 51.5173,
+		"Lng": -3.1752
+	},
+	{
+		"Name": "Fairwater Leisure Centre",
+		"Twitter": "",
+		"PostCode": "CF5 3LL",
+		"Surfaces": [
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "Unsure",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.better.org.uk/leisure-centre/cardiff/fairwater",
+		"Email": "",
+		"Phones": [
+			"02922 401200"
+		],
+		"Image": "img/flc.jpg",
+		"Lat": 51.4991,
+		"Lng": -3.2478
+	},
+	{
+		"Name": "Cambrian and Clydach Vale",
+		"Twitter": "AcademyCambrian",
+		"PostCode": "CF40 2XX",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 1,
+		"FullPrice": "Unsure",
+		"MedPrice": "-",
+		"SmallPrice": "Unsure",
+		"Description": "",
+		"Website": "http://www.cambrianlakeside.co.uk/sports-academy.html",
+		"Email": "clsa3g@outlook.com",
+		"Phones": [
+			"01443 433853",
+			"07885978118"
+		],
+		"Image": "img/cls.jpg",
+		"Lat": 51.6233,
+		"Lng": -3.4704
+	},
+	{
+		"Name": "Barry Town United",
+		"Twitter": "BarryTownUnited",
+		"PostCode": "CF63 1NH",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "Unsure",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "",
+		"Email": "",
+		"Phones": [
+			"07557665847"
+		],
+		"Image": "img/jp.jpg",
+		"Lat": 51.4114,
+		"Lng": -3.2678
+	},
+	{
+		"Name": "USW Sport Park Treforest",
+		"Twitter": "USWSport",
+		"PostCode": "CF37 5UP",
+		"Surfaces": [
+			"3G",
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 2,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 35,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://sport.southwales.ac.uk/sport-park/bookings/",
+		"Email": "steve.savage@southwales.ac.uk",
+		"Phones": [
+			"01443 654747"
+		],
+		"Image": "img/usw.jpg",
+		"Lat": 51.5716,
+		"Lng": -3.2852
+	},
+	{
+		"Name": "Cardiff Uni Sports Village",
+		"Twitter": "CardiffUniSport",
+		"PostCode": "CF14 3AT",
+		"Surfaces": [
+			"3G",
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 2,
+		"MedSize": 1,
+		"SmallSize": 0,
+		"FullPrice": 98,
+		"MedPrice": 39,
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.cardiff.ac.uk/sport/facilities/sports-training-village",
+		"Email": "sport@cardiff.ac.uk",
+		"Phones": [
+			"029 2087 4675"
+		],
+		"Image": "img/cusv.jpg",
+		"Lat": 51.497817,
+		"Lng": -3.197097
+	},
+	{
+		"Name": "Whitchurch High School",
+		"Twitter": "whs_cardiff",
+		"PostCode": "CF14 1RF",
+		"Surfaces": [
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "Unsure",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.whitchurchhs.com/WhitchurchRugbyAcademy/Facilities.htm",
+		"Email": "whs@whitchurch.cardiff.sch.uk",
+		"Phones": [
+			"029 20 629700"
+		],
+		"Image": "img/whs.jpg",
+		"Lat": 51.5149605,
+		"Lng": -3.2162502
+	},
+	{
+		"Name": "Stanwell School",
+		"Twitter": "StanwellSchool",
+		"PostCode": "CF64 2XL",
+		"Surfaces": [
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 70,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.stanwell.org/school/hire-facilities/",
+		"Email": "ddaly@stanwell.org",
+		"Phones": [
+			"02920 707 633"
+		],
+		"Image": "img/sw.jpg",
+		"Lat": 51.4333228,
+		"Lng": -3.1820114
+	},
+	{
+		"Name": "PlayFootball Swansea",
+		"Twitter": "pfswansea",
+		"PostCode": "SA5 7HR",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 0,
+		"MedSize": 2,
+		"SmallSize": 6,
+		"FullPrice": "-",
+		"MedPrice": 55,
+		"SmallPrice": 45,
+		"Description": "Junior Prices are slightly less: &pound;48 for medium and &pound;39 for small pitches",
+		"Website": "https://www.playfootball.net/swansea/hire-a-pitch/",
+		"Email": "swansea@playfootball.net",
+		"Phones": [
+			"01792 487 230"
+		],
+		"Image": "img/pfs.jpg",
+		"Lat": 51.6604932,
+		"Lng": -3.9522939
+	},
+	{
+		"Name": "Coleg Sir Gar",
+		"Twitter": "CSGsport",
+		"PostCode": "SA15 4DN",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 75,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.colegsirgar.ac.uk",
+		"Email": "",
+		"Phones": [
+			"01554 748000"
+		],
+		"Image": "img/csg.jpg",
+		"Lat": 51.686359,
+		"Lng": -4.188559
+	},
+	{
+		"Name": "Aber Uni Sports Centre",
+		"Twitter": "AberSport",
+		"PostCode": "SY23 3AR",
+		"Surfaces": [
+			"3G",
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 1,
+		"FullPrice": 50,
+		"MedPrice": "-",
+		"SmallPrice": 32.50,
+		"Description": "To Book half the full sized astro: &pound;28",
+		"Website": "https://www.aber.ac.uk/en/sportscentre/facilities-bookings/facilities/",
+		"Email": "sports@aber.ac.uk",
+		"Phones": [
+			"01970 62 2280"
+		],
+		"Image": "img/ausc.jpg",
+		"Lat": 52.4145144,
+		"Lng": -4.0662839
+	},
+	{
+		"Name": "Newport International Sports Village",
+		"Twitter": "",
+		"PostCode": "NP19 4RA",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 55,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://newportlive.co.uk/venues/newport-international-sports-village/3g-pitch",
+		"Email": "nisv@newportlive.co.uk",
+		"Phones": [
+			"01633 656757"
+		],
+		"Image": "img/nisv.jpg",
+		"Lat": 51.5741132,		
+		"Lng": -2.957407
+	},
+	{
+		"Name": "Park Avenue",
+		"Twitter": "AberystwythTown",
+		"PostCode": "SY23 1PG ",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "Unsure",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "https://atfc3gbookings.skedda.com/booking",
+		"Email": "3gbookings@atfc.org.uk ",
+		"Phones": [
+			"07400 500442 "
+		],
+		"Image": "img/apa.jpg",
+		"Lat": 52.4106441,		
+		"Lng": -4.0811815
+	},
+	{
+		"Name": "Swansea University Sports Village",
+		"Twitter": "SportSwans",
+		"PostCode": "SA2 9AU",
+		"Surfaces": [
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 2,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 60,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "<p>Half pitches, Student and Junior Prices vary.</p> <p>Senior: Full: &pound;60, Half: &pound;35.</p> <p>Junior: Full: &pound;42, Half: &pound;27.</p> <p>Student: Full: &pound;35, Half: &pound;20.</p>",
+		"Website": "http://www.swansea.ac.uk/sport/sports-village/track/",
+		"Email": "itcstaff@swansea.ac.uk",
+		"Phones": [
+			"01792 602400"
+		],
+		"Image": "img/ssv.jpg",
+		"Lat": 51.606411, 	
+		"Lng": -3.990044	
+	},
+	{
+		"Name": "Newtown AFC",
+		"Twitter": "NewtownAFC",
+		"PostCode": "SY16 1EN",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 60,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "Half pitch (&pound;34) and 1/3 pitch (&pound;24) available",
+		"Website": "http://www.newtownafc.co.uk/commercial/pitch-hire.html",
+		"Email": "owen@durbridge.co.uk",
+		"Phones": [
+			"07967 979089"
+		],
+		"Image": "img/nafc.jpg",
+		"Lat": 52.510988,
+		"Lng": -3.323085	
+	},
+	{
+		"Name": "Radyr Comprehensive School",
+		"Twitter": "radyrcs",
+		"PostCode": "CF15 8XG",
+		"Surfaces": [
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "-",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.radyr.cardiff.sch.uk/page/?pid=64",
+		"Email": "s.davies@radyr.net",
+		"Phones": [
+			"029 20845106"
+		],
+		"Image": "img/rcs.jpg",
+		"Lat": 51.5092567,
+		"Lng": -3.2478254	
+	},
+	{
+		"Name": "Gol Centre Newport",
+		"Twitter": "GolNewport",
+		"PostCode": "NP19 4RP",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 0,
+		"MedSize": 1,
+		"SmallSize": 6,
+		"FullPrice": "-",
+		"MedPrice": 70,
+		"SmallPrice": 50,
+		"Description": "Off-Peak prices are slightly cheaper. Peak hours are Mon-Thu 6pm onwards. Off-Peak is any other hours. Off-Peak Prices are &pound;60 for medium pitch, &pound;39 for small",
+		"Website": "http://www.golcentres.co.uk/locations/newport",
+		"Email": "newport@golcentres.co.uk",
+		"Phones": [
+			"01633 290 857"
+		],
+		"Image": "img/gc.jpg",
+		"Lat": 51.570314,
+		"Lng": -2.952125	
+	},
+	{
+		"Name": "Gol Centre Merthyr",
+		"Twitter": "GolMerthyr",
+		"PostCode": "CF48 1UT",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 0,
+		"MedSize": 0,
+		"SmallSize": 2,
+		"FullPrice": "-",
+		"MedPrice": "-",
+		"SmallPrice": 50,
+		"Description": "Off-Peak prices are slightly cheaper. Peak hours are Mon-Thu 6pm onwards. Off-Peak is any other hours. Off-Peak Prices are &pound;39 for small",
+		"Website": "http://www.golcentres.co.uk/locations/merthyr",
+		"Email": "merthyr@golcentres.co.uk",
+		"Phones": [
+			"01685 788 064"
+		],
+		"Image": "img/gc.jpg",
+		"Lat": 51.739716,
+		"Lng": -3.37814	
+	},
+	{
+		"Name": "St Cyres School",
+		"Twitter": "StCyresSchool",
+		"PostCode": "CF64 2XP",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": 75,
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.stcyres.org/lettings/",
+		"Email": "lettings@stcyres.org",
+		"Phones": [
+			"029 2070 8708"
+		],
+		"Image": "img/scs.jpg",
+		"Lat": 51.4379787, 
+		"Lng": -3.1962322	
+	},
+	{
+		"Name": "Colliers Park",
+		"Twitter": "",
+		"PostCode": "LL12 8PW",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Unsure",
+		"Parking": "Unsure",
+		"Disabled": "Unsure",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "Unsure",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.sport.glyndwr.ac.uk/Venues/ColliersParkTrainingGround/",
+		"Email": "sportsbookings@glyndwr.ac.uk",
+		"Phones": [
+			"01978 293275"
+		],
+		"Image": "img/gucp.jpg",
+		"Lat": 53.0811417,
+		"Lng": -2.9812192 	
+	},
+	{
+		"Name": "Glyndwr Uni Hockey Stadium",
+		"Twitter": "GlyndwrUniSport",
+		"PostCode": "LL11 2AW",
+		"Surfaces": [
+			"Astro"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Unsure",
+		"Parking": "Unsure",
+		"Disabled": "Unsure",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "Unsure",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "",
+		"Website": "http://www.sport.glyndwr.ac.uk/Venues/HockeyStadium/",
+		"Email": "sportsbookings@glyndwr.ac.uk",
+		"Phones": [
+			"01978 293275"
+		],
+		"Image": "img/guhs.jpg",
+		"Lat": 53.0545064,
+		"Lng": -3.0037494 	
+	},
+	{
+		"Name": "Bangor City FC",
+		"Twitter": "bangorcityfc",
+		"PostCode": "LL57 2HQ",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Unsure",
+		"Parking": "Yes",
+		"Disabled": "Unsure",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "65-80",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "<p>Peak times: Mon-Fri 5-10pm, Sat-Sun 9am-5pm</p><p>Peak prices: Full: &pound;80, Half: &pound;45, Third: &pound;30</p><p>Off-Peak prices: Full: &pound;65, Half: &pound;35, Third: &pound;25.</p>",
+		"Website": "http://www.bangorcityfc.co.uk/a/3g-facilities-45461.html",
+		"Email": "ethanray@bangorcityfc.co.uk",
+		"Phones": [
+			"01248 355852"
+		],
+		"Image": "img/bcfc.jpg",
+		"Lat": 53.225207,
+		"Lng": -4.149541	
+	},
+	{
+		"Name": "Maes Tegid",
+		"Twitter": "BalaTownFC",
+		"PostCode": "LL23 7UY",
+		"Surfaces": [
+			"3G"
+		],
+		"Settings": [
+			"Outdoor"
+		],
+		"Changing": "Yes",
+		"Parking": "Yes",
+		"Disabled": "Yes",
+		"FullSize": 1,
+		"MedSize": 0,
+		"SmallSize": 0,
+		"FullPrice": "60",
+		"MedPrice": "-",
+		"SmallPrice": "-",
+		"Description": "<p>Full: &pound;60, Two Thirds: &pound;45, One Third: &pound;25</p><p>Changing rooms cost an extra &pound;10</p>",
+		"Website": "http://www.balatownfc.co.uk/book-a-pitch/",
+		"Email": "community@balatownfc.co.uk",
+		"Phones": [
+			"07733672885"
+		],
+		"Image": "img/btmt.jpg",
+		"ExtraImages": [
+			"img/btmt/1.jpg",
+			"img/btmt/2.jpg",
+			"img/btmt/3.jpg"
+		],
+		"Lat": 52.911994,
+		"Lng": -3.60056,
+		"Verified": true
+	}
+]
